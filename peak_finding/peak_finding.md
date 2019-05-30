@@ -1,5 +1,12 @@
 ## Peak Finder
 ### One-Dimensional Version
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| a | b | c | d | e | f | g | h | i |
+
+a-i are numbers and 1-9 are the position of the number.
+
 Position 2 is a peak if and only if b >= a and b >=c, Position 9 is a peak if i >= h
 
 **Problem Description**
@@ -14,6 +21,13 @@ Position 2 is a peak if and only if b >= a and b >=c, Position 9 is a peak if i 
 4. Exit
 
 ### Two-Dimensional Version
+
+
+|   | c |   | |
+| ---- | --- | --- | --- |
+| b | a | d | |
+|   | e |   | |
+|   |   |   | |
 
 a is a 2D-peak if a >= b, a >= d, a >= c, a >= e
 
