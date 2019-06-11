@@ -9,3 +9,20 @@
 * [Data Structure](https://www.youtube.com/watch?v=zgCnMvvw6Oo&list=PLpPXw4zFa0uKKhaSz87IowJnOTzh9tiBk)
 * [Programming Abstractions (Stanford)](https://www.youtube.com/watch?v=kMzH3tfP6f8&list=PLFE6E58F856038C69)
 
+## Classical Algorithm
+
+### Dynamic Programming
+* [Top 50 Dynamic Programming Practice Problems](https://blog.usejournal.com/top-50-dynamic-programming-practice-problems-4208fed71aa3)
+* [Introduction to Dynamic Programming](https://www.hackerearth.com/zh/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/tutorial/)
+* [dynamic-programming-from-novice-to-advanced](https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/)
+* [An intro to Algorithms: Dynamic Programming](https://www.freecodecamp.org/news/an-intro-to-algorithms-dynamic-programming-dd00873362bb/)
+* [Tutorial For Dynamic Programming](https://www.codechef.com/wiki/tutorial-dynamic-programming)
+
+### Divide and Conquer
+* [Divide and Conquer Interview Questions and Practice Problems](https://medium.com/@codingfreak/divide-and-conquer-interview-questions-and-practice-problems-8855e45f4200)
+* [Differentiate between Divide & Conquer Method vs Dynamic Programming](https://www.javatpoint.com/divide-and-conquer-method-vs-dynamic-programming)
+
+
+
+
+
