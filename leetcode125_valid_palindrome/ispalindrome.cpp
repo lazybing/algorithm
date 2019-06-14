@@ -1,4 +1,21 @@
-class Solution {
+class Solution2 {
+public:
+    bool isPalindrome(string s){
+	int n = s.size(), low = 0, high = n - 1;
+	while (low < high) {
+	    while (low < high && !isalnum(s[low]))
+		low++;
+	    while (low < high && !isalnum(s[high]))
+		high--;
+	    if (tolower(s[low++]) != tolower(s[high--]))
+		return false;
+	}
+	return true;
+    }
+};
+
+
+class Solution1 {
 public:
     bool isalphanumeric(char x) {
 	return ((x >= '0' && x <= '9') ||
