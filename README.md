@@ -25,7 +25,9 @@
 ### Greedy Algorithm
 * [Top 7 Greedy Algorithm Problems](https://medium.com/@codingfreak/top-7-greedy-algorithm-problems-3885feaf9430)
 
-
+## Data Structure and Algorithm
+* [10 Data Structure and Algorithms Articles Beginners Should Read this Weekend](https://dev.to/javinpaul/10-data-structure-and-algorithms-articles-beginners-should-read-this-weekend-4i91)
+* [50+ Data Structure and Algorithms Problems from Coding Interviews](https://dev.to/javinpaul/50-data-structure-and-algorithms-problems-from-coding-interviews-4lh2)
 
 
 
