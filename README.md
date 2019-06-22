@@ -28,6 +28,10 @@
 ## Data Structure and Algorithm
 * [10 Data Structure and Algorithms Articles Beginners Should Read this Weekend](https://dev.to/javinpaul/10-data-structure-and-algorithms-articles-beginners-should-read-this-weekend-4i91)
 * [50+ Data Structure and Algorithms Problems from Coding Interviews](https://dev.to/javinpaul/50-data-structure-and-algorithms-problems-from-coding-interviews-4lh2)
+* [Data Structure and Algorithms Tutorial](https://www.tutorialspoint.com/data_structures_algorithms/)
+* [Data Structure](https://en.wikibooks.org/wiki/Data_Structures)
+* [Data Structure and Algorithm Analysis in CPP](http://iips.icci.edu.iq/images/exam/DataStructuresAndAlgorithmAnalysisInCpp_2014.pdf)
+
 
 
 
