@@ -30,6 +30,12 @@
 * [Backtracking algorithms](https://www.geeksforgeeks.org/backtracking-algorithms/)
 * [Top 20 Backtracking Algorithm Interview Questions](https://www.geeksforgeeks.org/top-20-backtracking-algorithm-interview-questions/)
 
+### Branch and Bound
+* [Branch and Bound Algorithm](https://www.geeksforgeeks.org/branch-and-bound-algorithm/)
+* [Branch and Bound Methods](https://web.stanford.edu/class/ee364b/lectures/bb_slides.pdf)
+* [Integer Programming: The Branch and Bound Method](http://web.tecnico.ulisboa.pt/mcasquilho/compute/_linpro/TaylorB_module_c.pdf)
+
+
 ## Data Structure and Algorithm
 * [10 Data Structure and Algorithms Articles Beginners Should Read this Weekend](https://dev.to/javinpaul/10-data-structure-and-algorithms-articles-beginners-should-read-this-weekend-4i91)
 * [50+ Data Structure and Algorithms Problems from Coding Interviews](https://dev.to/javinpaul/50-data-structure-and-algorithms-problems-from-coding-interviews-4lh2)
