@@ -43,6 +43,7 @@
 * [Data Structure](https://en.wikibooks.org/wiki/Data_Structures)
 * [Data Structure and Algorithm Analysis in CPP](http://iips.icci.edu.iq/images/exam/DataStructuresAndAlgorithmAnalysisInCpp_2014.pdf)
 
-
+## Interview Introduction
+* [Algorithm Recursion and Dynamic Programming](https://www.youtube.com/watch?v=7mB7VFYFh0c)
 
 
