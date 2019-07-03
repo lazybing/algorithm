@@ -25,10 +25,15 @@
 ### Greedy Algorithm
 * [Top 7 Greedy Algorithm Problems](https://medium.com/@codingfreak/top-7-greedy-algorithm-problems-3885feaf9430)
 
-### Backtracking algorithms
+### Backtracking Algorithms
 * [Introduction to Backtracking Algorithms](https://www.tutorialspoint.com/introduction-to-backtracking-algorithms)
 * [Backtracking algorithms](https://www.geeksforgeeks.org/backtracking-algorithms/)
 * [Top 20 Backtracking Algorithm Interview Questions](https://www.geeksforgeeks.org/top-20-backtracking-algorithm-interview-questions/)
+
+### KMP Algorithms
+* [String Algorithms](https://web.stanford.edu/class/cs97si/10-string-algorithms.pdf)
+* [KMP string matching](https://www.ics.uci.edu/~eppstein/161/960227.html)
+* [KMP Algorithm](https://medium.com/@giri_sh/string-matching-kmp-algorithm-27c182efa387)
 
 ### Branch and Bound
 * [Branch and Bound Algorithm](https://www.geeksforgeeks.org/branch-and-bound-algorithm/)
