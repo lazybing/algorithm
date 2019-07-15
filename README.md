@@ -35,6 +35,13 @@
 * [KMP string matching](https://www.ics.uci.edu/~eppstein/161/960227.html)
 * [KMP Algorithm](https://medium.com/@giri_sh/string-matching-kmp-algorithm-27c182efa387)
 
+### Sliding Window Algorithm
+* [Sliding window Algorithm Basic Information](https://riptutorial.com/algorithm/example/25071/sliding-window-algorithm-basic-information)
+* [Window Sliding Technique](https://www.geeksforgeeks.org/window-sliding-technique/)
+* [How to Solve Slding Window Problems](https://medium.com/outco/how-to-solve-sliding-window-problems-28d67601a66)
+* [The Sliding window algorithm and Similar Techniques](https://c0deb0t.wordpress.com/2018/06/20/the-sliding-window-algorithm-and-similar-techniques/)
+* [Sliding Window Algorithm - Practice Problems](https://www.techiedelight.com/sliding-window-problems/)
+
 ### Branch and Bound
 * [Branch and Bound Algorithm](https://www.geeksforgeeks.org/branch-and-bound-algorithm/)
 * [Branch and Bound Methods](https://web.stanford.edu/class/ee364b/lectures/bb_slides.pdf)
