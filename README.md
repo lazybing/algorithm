@@ -58,4 +58,5 @@
 ## Interview Introduction
 * [Algorithm Recursion and Dynamic Programming](https://www.youtube.com/watch?v=7mB7VFYFh0c)
 
-
+## Some Math Tricks
+* [primer number](https://en.wikipedia.org/wiki/Prime_number)
