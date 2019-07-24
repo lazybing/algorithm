@@ -4,4 +4,4 @@ All:
 	g++ -g squence.cpp -o squence
 
 clean:
-	rm square_template vector
+	-rm -f square_template vector squence
