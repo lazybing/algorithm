@@ -24,3 +24,29 @@ class Solution {
             return false;
         }
 };
+
+//time limit solution
+class Solution {
+    public:
+        bool checkInclusion(string s1, string s2) {
+            unordered_multiset<char> setting;
+            for (int i = 0; i < s1.size(); i++)
+                setting.insert(s1[i]);
+
+            for (int left = 0, right = s1.size(); left <= s2.size() - s1.size() && right <= s2.size(); left++, right++) {
+                unordered_multiset<char> tmp(setting);
+                for (int i = left; i < right; i++) {
+                    if (tmp.find(s2[i]) != tmp.end()) {
+                        tmp.erase(tmp.find(s2[i]));
+                    } else {
+                        break;
+                    }
+                }
+
+                if (tmp.empty())
+                    return true;
+            }
+
+            return false;
+        }
+};
