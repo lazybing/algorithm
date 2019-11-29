@@ -56,3 +56,23 @@ class Solution:
             right = right + 1
 
         return res
+
+# runtime 44ms beat 99.32%
+class Solution:
+    def lengthOfLongestSubstring(self, s:str)->int:
+        res, start = 0, 0
+        dic = {}
+
+        for i, value in enumerate(s):
+            if value in dic:
+                sums = dic[value] + 1
+                if sums > start:
+                    start = sums
+
+            num = i - start + 1
+            if num > res:
+                res = num
+            
+            dic[value] = i
+
+        return res
