@@ -1,4 +1,5 @@
 /*
+ * Fake Code
  * void mergeSort(T *a, int left, int right)
  * {
  *  if (left < right)
